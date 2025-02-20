@@ -8,7 +8,7 @@ The indicator will be grey when it's off and green when it's on
 
 #### Warning: This is probably very buggy
 
-(For some reason it wouldn't work if I didn't make it a required plugin so you can't enable or disable it, but it's not really necessary anyways; you can just delete the plugin if you don't want to use it.)
+> (For some reason it wouldn't work if I didn't make it a required plugin so you can't enable or disable it, but it's not really necessary anyways; you can just delete the plugin if you don't want to use it.)
 
 ## Installation:
 If you don't know how to install custom plugins on Vencord, read this https://docs.vencord.dev/installing/custom-plugins/
